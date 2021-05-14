@@ -1,87 +1,57 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Given its singular importance for water resources in the southwestern
+  USA, the Upper Colorado River Basin (UCRB) is remarkable for the paucity of
+  its conventional hydrological record of extreme flooding. Short-term
+  record-based flood frequency analyses lead to very great aleatory
+  uncertainties about infrequent extreme flood events and their climate-driven
+  causal associations. This study uses paleoflood hydrology to examine a small
+  portion of the underutilized, but very extensive natural record of Holocene
+  extreme floods in the UCRB. We perform a meta-analysis of 82 extreme
+  paleofloods from 18 slack water deposit sites in the UCRB to show linkages
+  between Holocene climate patterns and extreme floods. The analysis
+  demonstrates several clusters of extreme flood activity: 8040–7960, 4400–4300,
+  3600–3460, 2900–2740, 2390–1980, 1810–720, and 600–0 years BP. The extreme
+  paleofloods were found to occur during both dry and wet periods in the
+  paleoclimate record. When compared with independent paleoclimatic records
+  across the Rocky Mountains and the southwestern USA, the observed temporal
+  clustering pattern of UCRB extreme paleofloods shows associations with periods
+  of abruptly intensified North Pacific-derived storms connected with enhanced
+  variability of El Niño. This approach demonstrates the value of creating
+  paleohydrological databases and comparing them with hydro-climatic proxies in
+  order to identify natural patterns and to discover possible linkages to
+  fundamental processes such as changes in climate."
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Liu
+  - Tao; Ji
+  - Lin; Baker
+  - Victor R; Harden
+  - Tessa M; Cline
+  - Michael L
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: ""
+url_source: ""
+url_video: ""
+publication: "Progress in Physical Geography: Earth and Environment"
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+date: 2021-05-14T07:45:40.756Z
+url_slides: ""
+title: Holocene extreme paleofloods and their climatological context, Upper
+  Colorado River Basin, USA
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.1177%2F0309133320904038
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
