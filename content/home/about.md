@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: Tao Liu
 headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
+weight: 25
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: false
 author: admin
+widget_id: Tao Liu
 ---
+I am a research associate in the Department of Geosciences and Department of Hydrology and Atmosperic Sciences at the University of Arizona. My research interests are geohazards including floods on different scales, such as flash floods on hillslopes and megaflood on earth and Mars. I take a variety of analytical approaches to characterize the geohazards' distribution, mechanism, and risk assessment.
